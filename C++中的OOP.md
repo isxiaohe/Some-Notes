@@ -26,7 +26,7 @@ may return a val.<br><br>
 编译和实现都是在对象内部完成的.理想的对象是不需要程序员去触碰对象内部的.<br>
 *(理想的对象使用者也不应该去触碰对象内部,但这是诱惑性的.就好像现代医学会尝试去通过直接电击神经来控制肌肉----但合格oop程序员应该做的是给予参试者指令,让他运动肌肉.)*
 ### *Classes*
-***class,被认为来自Aristotle.oop中的calss定义了某些对象的共同属性,从而得到这些对象的集合.***<br><br>
+***class,被认为来自Aristotle.oop中的class定义了某些对象的共同属性,从而得到这些对象的集合.***<br><br>
 ***oop characteristics***<br>
 - Everything is an object.
 - A program is a bunch of objects telling each oter what todo by sending messages.
