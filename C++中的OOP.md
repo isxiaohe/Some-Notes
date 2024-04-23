@@ -6,7 +6,7 @@
 ###  *Objects = Attributes + Services*
 `Data`: the properties or status<br> 
 `Operations`: the functions<br>
-OOP的*最基本*的原则: 不能直接操作`attributes`, 而是只能使用`services`.
+OOP的*最基本*的原则: 只能使用提供的接口使用类.
 ### *Mapping*
 oop和pop的差别在于mapping策略不同,前者涉及对象属性及各属性的不同状态变化,后者涉及逻辑或时间上的先后<br>
 举例: 在教室里上课<br>
